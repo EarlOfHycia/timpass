@@ -26,7 +26,7 @@ To get the list of running nodes use the command...
 
 *rosnode list*
 
-<img width="1352" alt="rosnode list" src="https://github.com/EarlOfHycia/timpass/assets/162675481/2b4b5f5c-f7c2-4059-874c-80756ae57e6b">
+<img width="1000" alt="rosnode list" src="https://github.com/EarlOfHycia/timpass/assets/162675481/2b4b5f5c-f7c2-4059-874c-80756ae57e6b">
 
 
 Similarly to get the list of all topics, use the command...
